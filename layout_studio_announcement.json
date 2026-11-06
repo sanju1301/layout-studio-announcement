@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "open_tab_on_launch": true,
+  "title": "Welcome to Layout Studio",
+  "message": "<p>Please review the latest project guidance before starting.</p><p><b>Release:</b> V2.14.5.2</p><ul><li>Use the approved project CATDrawing.</li><li>Save the project before refreshing CATIA.</li><li>Report unexpected behavior to the Layout Studio team.</li></ul>",
+  "footer": "This announcement is maintained by the Layout Studio team."
+}
